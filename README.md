@@ -57,6 +57,10 @@ The contract ensures that only the authorized employer can manage payroll operat
 
 <img width="1470" height="956" alt="Screenshot 2026-03-27 at 2 06 43 PM" src="https://github.com/user-attachments/assets/cb460565-9a86-4108-88f5-8696f1c20d75" />
 
+## Contract Address: 
+```
+CBUEZS4DY24S53D7WHQTQVSL4VMURPUT7LVMRQZHR4UHXV53GGVSFYAU
+```
 
 ## 🔮 Future Improvements
 
